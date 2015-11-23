@@ -1,0 +1,9 @@
+Week 4 - Developing Final Model / Algorithm / Prediction Help Center
+
+This task is all about finalizing your analysis so that you can best answer the question you developed earlier on in the project. Make sure that you can develop a coherent story or argument about your problem (you will ultimately need to write up a slide deck and a report).
+
+You might want to consider the following as you finalize your analysis
+
+Do you have an answer to your question? It's possible that you didn't answer the question completely, but see the next question.
+Do you have a reasonable explanation for how your analysis addresses the question you posed? Can you come up with a theory or hypothesis that explains what is going on?
+Is your work reproducible? Do you have all of the data and code needed for others to reproduce your work?
