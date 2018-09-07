@@ -16,7 +16,7 @@ $VERBOSE = nil                         ###- supress warnings
 
 
 ####  config  section:
-dirToSearch = 'C:/R/XXX/*/*.sql'             ## dir with file to search, recurse is OK                 'C:/Users/'+ username  + '/Dropbox/EduDropBox/XXX/*.sql'
+dirToSearch = 'C:/R/XXX/*.sql'               ## dir with file to search, recurse is OK , but need adjust unless                 'C:/Users/'+ username  + '/Dropbox/EduDropBox/XXX/*.sql'
 dirToLog =   'C:/R/XXX/'                     ## scan_log.txt location with results, pipe delimited
 FileRegex = 'C:/R/XXX/ListRegex.txt'         ## file with all regex raw values, one value per line, for table/col use $Tbl/$Col at the beginning of the line (e.g $TblMyTable, $ColCustID)
 includeCommands = 1                          ## flag to include 'update', 'delete' commands from CommandArray to addition to in FileRegex
